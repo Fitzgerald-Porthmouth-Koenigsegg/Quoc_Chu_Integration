@@ -14899,6 +14899,7 @@
 𤵳	bón
 疳	cam
 癀	hoàng
+㾮	hoàng
 癘	lệ
 𤹓	quặn
 瘍	dương
@@ -24251,6 +24252,7 @@
 魑	si
 𩳳	trơi
 魎	lạng
+魎	lưỡng
 魍	võng
 魊	vực
 魈	tiêu
@@ -36637,3 +36639,4 @@
 𳑐	dâm
 𳑓	vạc
 𳑔	trống
+𳌳	hoá
