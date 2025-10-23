@@ -1201,6 +1201,7 @@
 亚	á
 些	ta
 些	tá
+亜	á
 亞	a
 亞	á
 亟	cắc
@@ -1753,6 +1754,7 @@
 倂	tính
 倅	tôi
 倅	tốt
+倅	tui
 倅	thối
 倆	lạng
 倆	lưỡng
@@ -5255,6 +5257,7 @@
 執	chộp
 執	chợp
 執	chụp
+執	chuụp
 執	dấp
 執	giập
 執	giộp
@@ -13954,6 +13957,8 @@
 爪	trảu
 爪	trẩu
 爪	vuốt
+爫	làm
+爫	lòm
 爫	trảo
 爬	ba
 爬	bà
@@ -16306,6 +16311,7 @@
 籴	địch
 籸	tẩm
 籺	hạt
+籺	hột
 类	loài
 类	loại
 籼	tiên
@@ -16524,6 +16530,7 @@
 絆	bện
 絆	bộn
 絆	bợn
+経	kinh
 絎	hàng
 絏	dây
 絏	giấy
@@ -17911,6 +17918,7 @@
 芄	hoàn
 芇	miên
 芇	miện
+芇	nào
 芊	thiên
 芋	vu
 芌	khoai
@@ -20201,6 +20209,7 @@
 豨	thỉ
 豪	hào
 豫	dự
+豫	dựa
 豬	chưa
 豬	trơ
 豬	trư
@@ -24374,6 +24383,7 @@
 龍	luông
 龍	luồng
 龍	rong
+龍	rồng
 龎	bàng
 龐	bàng
 龕	kham
@@ -24514,6 +24524,7 @@
 𠃣	ịt
 𠃩	chín
 𠃯	ụt
+𠃱	ót
 𠃷	út
 𠄀	vú
 𠄜	thờ
@@ -34483,6 +34494,7 @@
 𰺥	chộp
 𰺥	chợp
 𰺥	chụp
+𰺥	chuụp
 𰺥	giập
 𰺥	giộp
 𰺥	giúp
@@ -34657,7 +34669,6 @@
 𱓈	dẫm
 𱓈	râm
 𱓈	rầm
-𱓉	củ
 𱓊	dai
 𱓋	cúng
 𱓌	dặt
@@ -34991,7 +35002,6 @@
 𱡝	gừn
 𱡢	cừn
 𱡢	gừn
-𱡣	cừn
 𱡤	sặc
 𱡥	sỡ
 𱡬	bố
@@ -35225,7 +35235,6 @@
 𱱽	trẳng
 𱱽	trắng
 𱱾	ngươi
-𱲂	pỉ
 𱲇	dép
 𱲉	dép
 𱲢	mâm
