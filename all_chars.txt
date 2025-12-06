@@ -1007,6 +1007,8 @@ x	mười
 䏱	kẹc
 䏳	riếc
 䏴	toe
+䏴	teo
+䑃	mông
 䏶	bệ
 䏶	vế
 䏹	nghén
@@ -10657,6 +10659,7 @@ x	mười
 挼	nối
 挼	nuôi
 挼	nhôi
+挿	thọc
 挽	vãn
 挾	giáp
 挾	hiệp
@@ -15076,6 +15079,7 @@ x	mười
 涞	lai
 涞	lây
 涞	rợi
+涞	thui
 涟	liên
 涡	oa
 涡	qua
@@ -15724,6 +15728,7 @@ x	mười
 漏	lậu
 漑	cái
 漑	khái
+漑	ngấy
 漓	lầy
 漓	lè
 漓	li
